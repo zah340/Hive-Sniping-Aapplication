@@ -1,2 +1,14 @@
-# Hive-Sniping-Aapplication
-This Application lets you track Hive players and notifies you in real time when a tracked user playes a game.
+# SnipeBot Hive Tracker
+
+## Description
+A Python tool for tracking Hive data. GUI-based application built with PyQt5.
+
+## Requirements
+- Python 3.13+
+- PyQt5
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/zah340/Hive-Sniping-Aapplication
+   cd snipebot-hive-tracker
