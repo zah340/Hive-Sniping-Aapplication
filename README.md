@@ -10,5 +10,4 @@ A Python tool for tracking Hive data. GUI-based application built with PyQt5.
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/zah340/Hive-Sniping-Aapplication
-   cd snipebot-hive-tracker
+
